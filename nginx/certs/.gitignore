@@ -1,0 +1,6 @@
+# SSL certificate files — never commit these to version control
+*.key
+*.crt
+*.pem
+*.p12
+*.pfx
